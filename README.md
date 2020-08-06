@@ -2,7 +2,7 @@
 A blog website for all things related to programming, cybercrime, machine learning and web development.
 
 # Technology tools
-Python, HTML5, CSS, Javascript
+Flask, Python, HTML5, CSS, Javascript, Shell, Powershell
 
 # Instructions to view blog website
 <p>
