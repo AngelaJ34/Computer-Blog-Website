@@ -1,5 +1,5 @@
 # Overview
-A blog website for all things related to programming, cybercrime, machine learning and web development.
+A blog website for all things related to programming, cybercrime, machine learning and web development. The purpose of this project is to showcase frontend capabilities from this blog website.
 
 # Technology tools
 Flask, Python, HTML5, CSS, Javascript, Shell, Powershell
